@@ -6,7 +6,7 @@ The Gradle Mongo Plugin allows you to run a managed instance of Mongo from your 
 
 Plugin is available on both [Maven Central](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22gradle-mongo-plugin%22) and the [Gradle Plugin Portal](https://plugins.gradle.org/plugin/com.sourcemuse.mongo). Nightly builds are available from the [Sonatype OSS Repo](https://oss.sonatype.org/content/repositories/snapshots/com/sourcemuse/gradle/plugin/gradle-mongo-plugin/).
 
-### Usage ###
+#### Usage ####
 
 Enable the plugin in your gradle build:
 
